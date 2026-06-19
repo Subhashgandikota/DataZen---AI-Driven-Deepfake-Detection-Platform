@@ -48,7 +48,7 @@ def index():
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>DataZen - AI Deepfake Detection Platform | Created by Kadali Krishna</title>
+        <title>DataZen - AI Deepfake Detection Platform | Created by SUBHASH GANDIKOTA</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
@@ -643,7 +643,7 @@ def index():
                 <h1><i class="fas fa-shield-alt"></i> DataZen</h1>
                 <p>AI-Driven Deepfake Detection Platform - IBM Z Datathon 2025</p>
                 <div class="creator-info">
-                    <p><i class="fas fa-user"></i> Created by <strong>Kadali Krishna</strong></p>
+                    <p><i class="fas fa-user"></i> Created by <strong>SUBHASH GANDIKOTA</strong></p>
                 </div>
             </div>
             
@@ -798,7 +798,7 @@ def index():
                     <p>IBM Z Datathon 2025</p>
                 </div>
                 <div class="footer-right">
-                    <p><i class="fas fa-user"></i> Created by <strong>Kadali Krishna</strong></p>
+                    <p><i class="fas fa-user"></i> Created by <strong>SUBHASH GANDIKOTA</strong></p>
                     <p><i class="fas fa-code"></i> Full-Stack Developer</p>
                 </div>
             </div>
